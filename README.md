@@ -1,30 +1,29 @@
 <!-- Header dengan animasi teks -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hello!+I%27m+LineAja19;Passionate+Developer+from+Indonesia;Coding+is+my+superpower;Let's+create+something+amazing+together!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Halo!+Saya+LineAja19;Pengembang+yang+penuh+semangat;Menciptakan+sesuatu+yuk!;Selalu+belajar+dan+berinovasi!">
 </p>
 
 ---
 
 <!-- Bagian Tentang Saya -->
-<h1 align="center">👨‍💻 About Me</h1>
+<h1 align="center">👨‍💻 Tentang Saya</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </p>
 
 <p align="center">
-  Hi! I’m **LineAja19**, a passionate developer from **Indonesia**.  
-  I love building things with **Web Development**, **Mobile Apps**, and **Open-Source Projects**. 🚀  
-  I’m always excited to learn and grow, and I’m currently diving deep into **ReactJS**, **Node.js**, and **MongoDB**.  
-  <br />
-  🌱 Currently exploring new technologies, **AI**, and **cloud computing**.  
-  📚 You’ll often find me reading documentation or learning something new.  
-  💬 I’m open to collaborating on interesting projects, especially those that involve **full-stack development**.
+  Hai! Saya **LineAja19**, seorang pengembang **Web** dan **Mobile Apps** yang sangat antusias dalam dunia teknologi.  
+  Saya mencintai pemrograman dan selalu bersemangat untuk menciptakan **aplikasi modern** yang bermanfaat.  
+  🔧 Saat ini, saya sedang mendalami **ReactJS**, **Node.js**, dan **MongoDB**.  
+  🌱 Sedang fokus belajar tentang **Cloud Computing**, **AI**, dan pengembangan aplikasi berbasis **microservices**.  
+  📚 Saya selalu berusaha belajar hal baru dan menyukai tantangan dalam setiap proyek.  
+  💬 Saya terbuka untuk berkolaborasi dalam berbagai proyek, terutama yang melibatkan **full-stack development**.
 </p>
 
 ---
 
 <!-- Bagian Skill dan Teknologi -->
-<h2 align="center">🛠️ My Tech Stack</h2>
+<h2 align="center">🛠️ Skill dan Teknologi</h2>
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -44,35 +43,36 @@
 ---
 
 <!-- Bagian Statistik GitHub -->
-<h2 align="center">📊 My GitHub Stats</h2>
+<h2 align="center">📊 Statistik GitHub Saya</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LineAja19&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LineAja19&show_icons=true&theme=radical&hide=stars" alt="Statistik GitHub" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LineAja19&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LineAja19&theme=radical" alt="Streak Statistik" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LineAja19&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LineAja19&layout=compact&theme=radical" alt="Bahasa Pemrograman Teratas" />
 </p>
 
 ---
 
 <!-- Bagian Fun Facts -->
-<h2 align="center">🎉 Fun Facts</h2>
+<h2 align="center">🎉 Fakta Menarik</h2>
 <details>
-  <summary>✨ Click to reveal some fun facts about me!</summary>
+  <summary>✨ Klik untuk melihat fakta menarik tentang saya!</summary>
   <ul>
-    <li>🧩 I enjoy solving coding challenges and puzzles during my free time.</li>
-    <li>🍕 Pizza is my favorite snack while coding.</li>
-    <li>⏰ I once spent 15 hours fixing a bug that was caused by a missing semicolon.</li>
-    <li>🎮 I love gaming, especially **Valorant** and **Minecraft**.</li>
+    <li>🧩 Saya suka sekali tantangan pemrograman dan teka-teki logika.</li>
+    <li>🍕 Tidak ada yang lebih menyenangkan selain makan pizza sambil coding!</li>
+    <li>⏰ Saya pernah menghabiskan 15 jam hanya untuk menemukan bug kecil karena kurangnya satu tanda titik koma.</li>
+    <li>🎮 Saya penggemar berat game **Valorant** dan **Minecraft**.</li>
+    <li>📖 Saya selalu berusaha membaca artikel dan dokumentasi untuk terus memperbarui pengetahuan saya.</li>
   </ul>
 </details>
 
 ---
 
 <!-- Bagian Kontak -->
-<h2 align="center">📫 How to Reach Me</h2>
+<h2 align="center">📫 Cara Menghubungi Saya</h2>
 <p align="center">
-  <a href="mailto:lineaja03@gmail.com">
+  <a href="mail:lineaja03@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/username">
@@ -90,6 +90,6 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" />
 </p>
 
-<p align="center">✨ Thanks for visiting my profile! Let's connect and build something awesome! 🚀</p>
+<p align="center">✨ Terima kasih sudah mengunjungi profil saya! Ayo terhubung dan bersama-sama menciptakan sesuatu yang luar biasa! 🚀</p>
 
 ---
