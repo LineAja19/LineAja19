@@ -2,7 +2,7 @@
 - 👀 Saya tertarik pada pengembangan web, teknologi terbaru, dan pemrograman.
 - 🌱 Saat ini saya sedang belajar JavaScript, React, dan pengembangan aplikasi mobile.
 - 💞️ Saya ingin berkolaborasi dalam proyek open-source atau pengembangan aplikasi web yang bermanfaat.
-- 📫 Kamu bisa menghubungi saya melalui [email kamu] atau [akun media sosial kamu].
+- 📫 Kamu bisa menghubungi saya melalui lineaja03@gmail.com.
 - 😄 Pronouns: dia / mereka (atau sesuai preferensi kamu).
 - ⚡ Fun fact: Saya bisa menghabiskan berjam-jam debugging hanya untuk menemukan titik koma yang hilang!
 
