@@ -9,8 +9,8 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </p>
 <p align="center">
-  🚀 Saya seorang pengembang yang antusias di dunia **Web Development** dan **Mobile Apps**.  
-  🌱 Saat ini saya sedang belajar **ReactJS**, **Node.js**, dan **JavaScript**.  
+  🚀 Saya seorang pengembang yang antusias di dunia *Web Development* dan *Mobile Apps*.  
+  🌱 Saat ini saya sedang belajar *ReactJS*, *Node.js*, dan *JavaScript*.  
   💻 Saya tertarik pada teknologi modern dan selalu mencari peluang untuk berkolaborasi!  
 </p>
 
