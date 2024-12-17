@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </p>
 <p align="center">
-  🌟  こんにちは。(Konnichiwa) I'm Line, I'm Focused On Web Development & Mobile App.
+  🌟  こんにちは。(Konnichiwa). I'm Line, I'm Focused On Web Development & Mobile App.
 </p>
 
 ---
@@ -48,19 +48,17 @@
 <details>
   <summary>✨ Klik untuk melihat fakta-fakta seru tentang saya!</summary>
   <ul>
-    <li>💡 Saya suka belajar hal-hal baru dan berusaha untuk selalu update dengan teknologi terbaru.</li>
-    <li>🎮 Hobi saya adalah bermain game dan mencoba berbagai framework baru di waktu senggang.</li>
     <li>🍕 Saya penggemar berat pizza! Tidak ada yang lebih enak daripada pizza dan coding bersama.</li>
-    <li>⏳ Saya pernah bekerja selama 12 jam nonstop untuk menyelesaikan bug yang sulit. Menantang sekali!</li>
+    <li>⏳ Saya pernah 2 jam memperbaiki kode hanya untuk memperbaiki error titik dan koma!</li>
     <li>🚴‍♂️ Selain coding, saya suka bersepeda untuk menghilangkan stres dan tetap aktif.</li>
   </ul>
 </details>
 
 ---
 
-<h2 align="center">📫 Cara Menghubungi Saya</h2>
+<h2 align="center">📫 Contact Me</h2>
 <p align="center">
-  <a href="mailto:emailkamu@gmail.com">
+  <a href="mail:lineaja03@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/username">
