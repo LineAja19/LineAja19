@@ -1,6 +1,6 @@
 <!-- Header dengan animasi teks -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Halo+semua!+Saya+@LineAja19;Selamat+datang+di+profil+GitHub+saya!;Pengembang+web+dan+mobile+apps;Selalu+terbuka+untuk+kolaborasi+dengan+teman-teman!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Halo+semua!+Saya+@LineAja19!">
 </p>
 
 <!-- Profil singkat -->
@@ -9,15 +9,12 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </p>
 <p align="center">
-  🌟 Halo! Saya **LineAja19**, seorang pengembang web yang penuh semangat dalam dunia **Web Development**, **Mobile Apps**, dan **Open Source**.  
-  🚀 Saya senang mempelajari **teknologi terbaru**, terutama **JavaScript**, **ReactJS**, dan **Node.js**.  
-  💻 Saya selalu ingin membuat aplikasi yang dapat memberi dampak positif dan membantu orang lain.  
-  🔥 Jika kamu punya ide atau proyek seru, jangan ragu untuk menghubungi saya!  
+  🌟  こんにちは。(Konnichiwa) I'm Line, I'm Focused On Web Development & Mobile App.
 </p>
 
 ---
 
-<h2 align="center">🛠️ Teknologi yang Saya Gunakan</h2>
+<h2 align="center">⚡ My Skill</h2>
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -36,7 +33,7 @@
 
 ---
 
-<h2 align="center">📊 Statistik GitHub</h2>
+<h2 align="center">📊 GitHub Power</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LineAja19&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" />
   <br/>
